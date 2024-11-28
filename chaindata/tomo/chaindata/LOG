@@ -1,0 +1,40 @@
+=============== Nov 27, 2024 (+07) ===============
+15:12:26.015770 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:12:26.028287 db@open opening
+15:12:26.028544 version@stat F·[] S·0B[] Sc·[]
+15:12:26.032150 db@janitor F·2 G·0
+15:12:26.032169 db@open done T·3.865917ms
+=============== Nov 27, 2024 (+07) ===============
+15:14:18.351035 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:14:18.352047 version@stat F·[] S·0B[] Sc·[]
+15:14:18.352063 db@open opening
+15:14:18.352136 journal@recovery F·1
+15:14:18.353465 journal@recovery recovering @1
+15:14:18.359751 memdb@flush created L0@2 N·146 S·22KiB "\x02\x9fE..W\xd6\xd1,v58":"\xf4m\xfc..\xbfb\xbd,v74"
+15:14:18.360141 version@stat F·[1] S·22KiB[22KiB] Sc·[0.25]
+15:14:18.370357 db@janitor F·3 G·0
+15:14:18.370496 db@open done T·18.425875ms
+=============== Nov 27, 2024 (+07) ===============
+16:00:37.960526 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:00:37.961149 version@stat F·[1] S·22KiB[22KiB] Sc·[0.25]
+16:00:37.961168 db@open opening
+16:00:37.961217 journal@recovery F·1
+16:00:37.961308 journal@recovery recovering @3
+16:00:37.968018 memdb@flush created L0@5 N·1 S·433B "eth..)\x86$,v148":"eth..)\x86$,v148"
+16:00:37.968136 version@stat F·[2] S·23KiB[23KiB] Sc·[0.50]
+16:00:37.986838 db@janitor F·4 G·0
+16:00:37.986855 db@open done T·25.680167ms
+16:00:37.988115 db@close closing
+16:00:37.988196 db@close done T·78.417µs
+=============== Nov 27, 2024 (+07) ===============
+16:11:34.183910 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:11:34.184410 version@stat F·[2] S·23KiB[23KiB] Sc·[0.50]
+16:11:34.184432 db@open opening
+16:11:34.184487 journal@recovery F·1
+16:11:34.184572 journal@recovery recovering @6
+16:11:34.192600 memdb@flush created L0@8 N·2 S·450B "Las..der,v151":"eth..)\x86$,v150"
+16:11:34.192747 version@stat F·[3] S·23KiB[23KiB] Sc·[0.75]
+16:11:34.210757 db@janitor F·5 G·0
+16:11:34.210775 db@open done T·26.339709ms
+16:11:34.211994 db@close closing
+16:11:34.212062 db@close done T·67.334µs
